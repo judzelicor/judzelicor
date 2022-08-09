@@ -4,14 +4,6 @@
 </picture>
 <br />
 <br />
- </div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./readme-assets/open-to-development-roles-dark-mode.png">
-    <img width=600 src="./readme-assets/open-to-development-roles-light-mode.png">
-  </picture>
- </div>
  
 👋 My name is Judz Philip Elicor. I'm a self-taught full-stack developer based in Edmonton, Canada.
 
@@ -79,4 +71,14 @@ If you have any questions, concerns, or simply just want to talk, you can find m
       </picture>
     </a>
   </span>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme-assets/open-to-development-roles-dark-mode.png">
+    <img width=600 src="./readme-assets/open-to-development-roles-light-mode.png">
+  </picture>
 </div>
